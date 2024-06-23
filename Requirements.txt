@@ -1,0 +1,11 @@
+gpiozero
+adafruit_rplidar
+datetime
+ultralytics
+opencv-python
+pyttsx3
+easyocr
+speech_recognition
+difflib
+os
+sounddevice
