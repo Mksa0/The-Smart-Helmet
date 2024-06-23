@@ -1,3 +1,4 @@
+Libraries:
 gpiozero
 adafruit_rplidar
 datetime
@@ -9,3 +10,10 @@ speech_recognition
 difflib
 os
 sounddevice
+Hardware:
+RPLidar sensor
+Raspberry pi 5
+vibration motors
+Kensington USB Mono Headset with Mic
+c922 pro webcam
+Power bank
